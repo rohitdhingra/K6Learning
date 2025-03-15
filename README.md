@@ -10,6 +10,3 @@ https://grafana.com/blog/2024/01/30/spike-testing/#spike-testing-in-k6
 
 Breakpoint testing
 https://grafana.com/blog/2024/01/30/breakpoint-testing/
-
-Running K6 File
-k6 run breakpoint-test.js
